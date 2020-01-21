@@ -4,3 +4,5 @@
 .avi
 *.mov
 *.mp4
+*.obj
+*.pts
